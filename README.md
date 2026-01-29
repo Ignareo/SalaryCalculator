@@ -132,9 +132,6 @@ interface SalaryRecord {
    # Using Git
    git clone <repository-url>
    cd 工资计算器
-   
-   # Or download and extract the ZIP file, then navigate to the folder
-   cd D:\Programming\SelfProgram\Kimi_Agent_工资计算器
    ```
 
 2. **Install dependencies**
