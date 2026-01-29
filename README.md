@@ -4,6 +4,9 @@
 
 ---
 
+<img width="1921" height="1341" alt="image" src="https://github.com/user-attachments/assets/6fe90cb7-b312-4ffc-9f13-17dead1c359a" />
+
+
 ## 功能特性
 
 - **累计预扣法个税计算** - 严格按照中国税法累计预扣法计算个人所得税
